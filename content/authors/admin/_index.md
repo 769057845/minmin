@@ -18,7 +18,7 @@ role: Postgraduate of Environmental Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-   - name: Beijing Normal University
+  - name: Beijing Normal University
     url: https://www.bnu.edu.cn//
 
 # Short bio (displayed in user profile at end of posts)
