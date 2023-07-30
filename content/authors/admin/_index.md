@@ -34,12 +34,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-   - course: Master of Hydrology and Water Resources
-      institution: Beijing Normal University
-      year: 2021
-    - course: Bachelor of Geographical Science
-      institution: Hunan Normal University
-      year: 2017
+      - course: Master of Hydrology and Water Resources
+         institution: Beijing Normal University
+         year: 2021
+       - course: Bachelor of Geographical Science
+         institution: Hunan Normal University
+         year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
