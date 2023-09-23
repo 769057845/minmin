@@ -26,20 +26,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Ecological hydrology
-  - River biogeochemical
-  - River damming
-  - Climate change
+  - Ecological hydrology, Climate change, River biogeochemical, Water management
+  - Terrestrial ecosystem carbon dynamics, Surface material cycle, Land use change, Soil-plant
+  - Water quality, Risk assessment, Source apportionment
 
 # Education to show in About widget
 education:
   courses:
     - course: Master of Hydrology and Water Resources
       institution: Beijing Normal University
-      year: 2021
+      year: September 2021 – Present
     - course: Bachelor of Geographical Science
       institution: Hunan Normal University
-      year: 2017
+      year: September 2017 – July 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -73,5 +72,5 @@ highlight_name: true
 ---
 
 
-Lucky Yang is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhimin Yang is a postgraduate of hydrology and water resource at Beijing normal university. She has the research experiences on 写自己的研究经历 . She is also experienced in field observations, experiments and hydrological models. She is interested in the water-soil-plant interactions under a changing environment. Yang Zhimin also has good academic performance, ranking first both in the period of bachelor and master. She is familiar with different fields including ecology, hydrology, soil science and climate meteorology to conduct the inter- and multidisciplinary research.
 {style="text-align: justify;"}
