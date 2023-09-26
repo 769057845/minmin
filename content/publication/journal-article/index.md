@@ -19,7 +19,10 @@ publication_types: ["2"]
 publication: "*Journal of Hydrology, 617, 128827. (SCI&Q1&TOP)"
 publication_short: ""
 
-Research highlights:
+Keywords: 
+surface–subsurface flow; sediment; hydraulic and hydrodynamic characteristics; grass species; rainfall simulation
+
+Research highlights: 
 ●Surface-subsurface flow and soil loss in response to two grass species were revealed.
 ●Stolon grass was more effective than erect grass in reducing soil loss.
 ●Hydraulic and hydrodynamic characteristics were affected by various grass treatments.
