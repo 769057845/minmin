@@ -28,8 +28,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: source
+  url: https://doi.org/10.1016/j.jhydrol.2022.128827
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_dataset: '#'
 #url_project: ''
@@ -54,7 +54,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 
