@@ -177,8 +177,10 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        
+      text: ''
+      count: 5  
+      offset: 0
+      order: desc     
       filters:
         folders:
           - publication
