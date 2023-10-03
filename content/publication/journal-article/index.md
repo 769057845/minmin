@@ -19,10 +19,7 @@ publication_types: ["2"]
 publication: "*Journal of Hydrology, 617, 128827. (SCI&Q1&TOP)"
 publication_short: ""
 
-abstract: 1.Surface-subsurface flow and soil loss in response to two grass species were revealed.
-2.Stolon grass was more effective than erect grass in reducing soil loss.
-3.Hydraulic and hydrodynamic characteristics were affected by various grass treatments.
-4.The above- and under-ground parts of grass contributed to controlling soil erosion.
+abstract: 1.Surface-subsurface flow and soil loss in response to two grass species were revealed.2.Stolon grass was more effective than erect grass in reducing soil loss.3.Hydraulic and hydrodynamic characteristics were affected by various grass treatments.4.The above- and under-ground parts of grass contributed to controlling soil erosion.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
