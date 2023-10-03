@@ -178,7 +178,7 @@ sections:
     content:
       title: Recent Publications
       text: ''
-      count: 5  
+      count: 8  
       offset: 0
       order: desc     
       filters:

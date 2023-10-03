@@ -1,5 +1,5 @@
 ---
-title: "3Source-oriented ecological and resistome risks associated with geochemical enrichment of heavy metals in river sediments."
+title: "4Source-oriented ecological and resistome risks associated with geochemical enrichment of heavy metals in river sediments."
 authors:
 - admin
 date: "2023-04-07T00:00:00Z"
@@ -12,7 +12,7 @@ publishDate: "2023-04-07T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
