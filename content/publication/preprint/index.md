@@ -34,7 +34,7 @@ featured: false
 links:
 - name: source
   url: https://doi.org/10.1016/j.chemosphere.2023.139119
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0045653523013863/pdf
 #url_dataset: '#'
 #url_project: ''
 
