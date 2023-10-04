@@ -19,7 +19,7 @@ publishDate: "2023-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Ecological Indicators, 154, 110903. (SCI&Q1&TOP)"
+publication: "*Ecological Indicators, 154, 110903. (SCI&Q1&TOP)"
 publication_short: ""
 
 abstract: 1.An index-based method associated with aquatic ecosystem was proposed to evaluate RLC.2.The changes of flow regime in cascade dams impacted the migratory and endemic fish.3.The downstream Tongzilin reservoir had the largest contribution to the loss of RLC.4.RLC was impacted by multiple factors especially cumulative effects in cascade dams.
