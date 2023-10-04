@@ -180,7 +180,7 @@ sections:
       text: ''
       count: 8  
       offset: 0
-      #order: desc     
+      order: asc     
       filters:
         folders:
           - publication
