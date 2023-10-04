@@ -36,7 +36,7 @@ featured: false
 links: 
 - name: source
   url: https://doi.org/10.1016/j.jhydrol.2022.128827
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.sciencedirect.com/science/article/pii/S002216942201397X/pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
