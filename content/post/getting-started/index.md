@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Field observations
+subtitle: Sampling of Cascade Reservoirs in the Yellow River. Investigation of the Yellow River Basin. 
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Sampling of Cascade Reservoirs in the Yellow River. Investigation of the Yellow River Basin. 
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2023-05-13T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-05-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,38 +23,49 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ''
   placement: 2
   preview_only: false
 
 authors:
   - admin
-  - 吳恩達
+  - Chunhui Li
+  - Shaoda Liu
 
 tags:
-  - Academic
-  - 开源
+  - ''
+  - ''
 
 categories:
-  - Demo
-  - 教程
+  - ''
+  - ''
 ---
 
-```python
-import libr
-print('hello')
-```
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. **Sampling of Cascade Reservoirs in the Yellow River**
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+At May 2023, we went to the Upper Reaches of Yellow River to explore the influence of cascade reservoirs on the composition of C and N. We collected the samples of water, sediment, and greenhouse gases in Longyangxia, Laxiwa, Lijiaxia, and Liujiaxia reservoirs. The reservoir area, reservoir head, and reservoir tail were all considered.
 
-## Get Started
+![png](./index_1_0.png)
+
+
+![png](./index_2_0.png)
+
+
+## Overview
+
+2. **Investigation of the Yellow River Basin**
+
+At July 2022, we went to the Yellow River Delta to explore the eco-compensation mechanism of the Yellow River, financially supported by the Asian Development Bank (TA-6605 PRC:54026-005). The members of the team included the dean of Beijing Normal University Pro. Hongguang Cheng (chg@bnu.edu.cn), the deputy director of Water Safety Research Institute Pro. Changsen Zhao (zhaochangsen@bnu.edu.cn), Pro. Chunhui Li (chunhuili@bnu.edu.cn), and Zhimin Yang (yangzm@mail.bnu.edu.cn).
+
+![png](./index_3_0.png)
+
+
+![png](./index_4_0.png)
+
 
 - 👉 [**Create a new site**](https://wowchemy.com/templates/)
 - 📚 [**Personalize your site**](https://wowchemy.com/docs/)
