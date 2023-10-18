@@ -15,21 +15,21 @@ sections:
     content:
       title: Skills
       items:
-        - name: R language
-          description: 90%
+        - name: software：R, ArcGIS, SPSS, Origin, PS
+          description: 80%
           icon: r-project
           icon_pack: fab
-        - name: ArcGIS
-          description: 100%
+        - name: model：SWAT model,  MIKE model
+          description: 90%
           icon: chart-line
           icon_pack: fas
-        - name: SWAT model
-          description: 60%
+        - name: Hobbies：backpacking, contemporary literature, Running, traveling
+          description: 70%
           icon: camera-retro
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Academic Performance
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -39,33 +39,41 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Master
+          company: GPA：3.80/4.00   Rank：1/96
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Beijing Normal University
+          date_start: '2021-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              e.g. Compulsory course (Percentile system):
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Water Quality Model and Simulation: Mark 96
+              * Application and Development of Spatial Analysis Technology in Environment: Mark 96
+              * Science of Hydrology and Water Resource: Mark 94
+        - title: Bachelor
+          company: GPA：4.23/5.00   Rank：1/84
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Hunan Normal University
+          date_start: '2017-09-01'
+          date_end: '2021-07-01'
+          description: |2-
+              e.g. Compulsory course (Percentile system)
+
+              * Soil Geography: Mark 95
+              * Economic geography: Mark 94
+              * Geology and Geomorphology: Mark 95
+              * Meteorology and climatology: Mark 95
+
+          
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Projects'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -75,36 +83,44 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+        - certificate_url: ''
+          date_end: '2023-12-25'
+          date_start: '2022-05-25'
+          description: (12800-310430011), Host
+          organization: Remote-Sensing
+          organization_url: ''
+          title: The Open Fund of State Key Laboratory of Remote Sensing Science Project 
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+        - certificate_url: ''
+          date_end: '2020-11-01'
+          date_start: '2020-01-01'
+          description: The Spatiotemporal Change Characteristics and Driving Mechanisms of Wetlands in the Dongting Lake Basin
+          organization: Dongting-Lake
+          organization_url: ''
+          title: Provincial Innovation and Entrepreneurship Project for College Students
+          url: ''
+        - certificate_url: ''
+          date_end: '2019-09-21'
+          date_start: '2019-06-01'
+          description: Integrated Media Communication and Image Construction of the Ancient Tea Horse Road in Anhua, Hunan under the “Belt and Road” Strategy
+          organization: Ancient-Tea-Horse-Road
+          organization_url: ''
+          title: Provincial Innovation and Entrepreneurship Project for College Students
+          url: ''
+        - certificate_url: ''
+          date_end: '2018-12-21'
+          date_start: '2018-06-01'
+          description: Cultural and Creative Industry Location Model and Hunan Demonstration
+          organization: Cultural-and-Creative
+          organization_url: ''
+          title: Provincial Innovation and Entrepreneurship Project for College Students
           url: ''
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: Experiences
     content:
-      title: Recent Posts
+      title: Experiences
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -129,9 +145,9 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: Conference Presentations
     content:
-      title: Projects
+      title: Conference Presentations
       filters:
         folders:
           - project
@@ -145,10 +161,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: World Geography Conference 
+          tag: World Geography Conference 
+        - name: River and Lake Ecological Forum
+          tag: River and Lake Ecological Forum
+        - name: Environmental Forum Award
+          tag: Environmental Forum Award
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -163,18 +181,19 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+ # - block: collection
+ #  id: featured
+ #   content:
+ #     title: Featured Publications
+ #     filters:
+ #       folders:
+ #         - publication
+ #       featured_only: true
+ #   design:
+ #     columns: '2'
+ #     view: card
   - block: collection
     id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     content:
       title: Recent Publications
       text: ''

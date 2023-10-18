@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Experiences
 cms_exclude: true
 
 # View.
