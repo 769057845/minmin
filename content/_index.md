@@ -11,22 +11,23 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: Model：SWAT model,  MIKE model
-          description: ''
-          icon: chart-line
-          icon_pack: fas
-        - name: Software：R, ArcGIS, SPSS, Origin, PS
-          description: ''
-          icon: r-project
-          icon_pack: fab
-        - name: Hobbies：Backpacking, Running, Traveling
-          description: ''
-          icon: camera-retro
-          icon_pack: fas
+
+  #- block: features
+  # content:
+  #    title: Skills
+  #    items:
+  #      - name: Model：SWAT model,  MIKE model
+  #        description: ''
+  #        icon: chart-line
+  #        icon_pack: fas
+  #      - name: Software：R, ArcGIS, SPSS, Origin, PS
+  #        description: ''
+  #        icon: r-project
+  #        icon_pack: fab
+  #      - name: Hobbies：Backpacking, Running, Traveling
+  #        description: ''
+  #        icon: camera-retro
+  #        icon_pack: fas
   - block: experience
     content:
       title: Academic Performance
@@ -49,10 +50,10 @@ sections:
           description: |2-
               e.g. Compulsory course (Percentile system):
 
-              * Water Quality Model and Simulation: Mark A+
-              * Application and Development of Spatial Analysis Technology in Environment: Mark A+
-              * Science of Hydrology and Water Resource: Mark A
-              * Comparison of environmental issues between America and China: Mark A+
+              * Water Quality Model and Simulation: Mark 96
+              * Application and Development of Spatial Analysis Technology in Environment: Mark 96
+              * Science of Hydrology and Water Resource: Mark 94
+              * Comparison of environmental issues between America and China: Mark 95
         - title: Bachelor of Geographical Science
           company: GPA：4.23/5.00   Rank：1/84
           company_url: ''
@@ -63,10 +64,10 @@ sections:
           description: |2-
               e.g. Compulsory course (Percentile system)
 
-              * Soil Geography: Mark A+
-              * Economic geography: Mark A
-              * Geology and Geomorphology: Mark A+
-              * Meteorology and climatology: Mark A+
+              * Soil Geography: Mark 95
+              * Economic geography: Mark 94
+              * Geology and Geomorphology: Mark 95
+              * Meteorology and climatology: Mark 95
 
           
     design:
@@ -131,7 +132,7 @@ sections:
           date_start: '2022-05-25'
           description: (12800-310430011), Host
           organization: Remote-Sensing
-          organization_url: ''
+          organization_url: 'http://www.slrss.cn/'
           title: The Open Fund of State Key Laboratory of Remote Sensing Science Project 
           url: ''
         - certificate_url: ''
@@ -139,7 +140,7 @@ sections:
           date_start: '2020-01-01'
           description: The Spatiotemporal Change Characteristics and Driving Mechanisms of Wetlands in the Dongting Lake Basin
           organization: Dongting-Lake
-          organization_url: ''
+          organization_url: 'https://zh.wikipedia.org/wiki/%E6%B4%9E%E5%BA%AD%E6%B9%96'
           title: Provincial Innovation and Entrepreneurship Project for College Students
           url: ''
         - certificate_url: ''
@@ -147,7 +148,7 @@ sections:
           date_start: '2019-06-01'
           description: Integrated Media Communication and Image Construction of the Ancient Tea Horse Road in Anhua, Hunan under the “Belt and Road” Strategy
           organization: Ancient-Tea-Horse-Road
-          organization_url: ''
+          organization_url: 'https://zh.wikipedia.org/wiki/%E8%8C%B6%E9%A9%AC%E5%8F%A4%E9%81%93'
           title: Provincial Innovation and Entrepreneurship Project for College Students
           url: ''
         - certificate_url: ''
@@ -155,7 +156,7 @@ sections:
           date_start: '2018-06-01'
           description: Cultural and Creative Industry Location Model and Hunan Demonstration
           organization: Cultural-and-Creative
-          organization_url: ''
+          organization_url: 'https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E5%89%B5%E6%84%8F%E7%94%A2%E6%A5%AD'
           title: Provincial Innovation and Entrepreneurship Project for College Students
           url: ''
     design:
@@ -208,11 +209,11 @@ sections:
  #   design:
  #     columns: '2'
  #     view: card
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+ # - block: tag_cloud
+ #   content:
+ #     title: Popular Topics
+ #   design:
+ #     columns: '2'
   - block: contact
     id: contact
     content:

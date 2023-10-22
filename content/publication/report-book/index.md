@@ -1,16 +1,14 @@
 ---
-title: "Spatial and Temporal Changes in Wetland in Dongting Lake Basin of China under Long Time Series from 1990 to 2020"
+title: "A novel method for determining the optimal allocation of dynamic water environmental capacity in one river"
 authors:
 #- admin
 - Zhimin Yang
-- Longfei Han
-- Qingping Liu
-- Chunhui Li
-date: "2022-03-19T00:00:00Z"
+- Chunhui Li et al
+date: "2023-10-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-019T00:00:00Z"
+publishDate: "2023-10-019T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +17,10 @@ publishDate: "2022-03-019T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Sustainability, 14(6), 3620."
+publication: "(Under review)"
 publication_short: ""
 
-abstract: Wetland; Temporal and spatial change; Land use change; Dongting Lake Basin
+#abstract: Wetland; Temporal and spatial change; Land use change; Dongting Lake Basin
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,17 +29,17 @@ tags:
 - Source Themes
 featured: false
 
-links:
-- name: source
-  url: https://doi.org/10.3390/su14063620
-url_pdf: https://mdpi-res.com/d_attachment/sustainability/sustainability-14-03620/article_deploy/sustainability-14-03620.pdf
-#url_dataset: '#'
-#url_project: ''
+#等发表后放开
+#links:
+#- name: source
+#  url: https://doi.org/10.3390/su14063620
+#url_pdf: https://mdpi-res.com/d_attachment/sustainability/sustainability-14-03620/article_deploy/sustainability-14-03620.pdf
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
@@ -62,6 +60,19 @@ projects:
 ---
 
 
-Main content:
-Wetland plays a pivotal role in sustaining ecosystem service and adapting to climate change. This paper used remote sensing images of 1990, 2000, 2010 and 2020 to investigate the change of wetland of Dongting Lake Basin (DLB) and its possible causes. The land use conversion matrix and contribution rate were calculated in 1990-2000, 2000-2010 and 2010-2020, and results showed that the total wetland area displayed an increasing trend, especially the reservoir ponds and channels across DLB from 1990 to 2020. The forest and agricultural land conversion into wetland accounted for the main proportion, with the most contribution rate (234.13%) of forest land and the smallest rate (-117.46%) of agricultural land between 1990 and 2000. On the contrary, agricultural land had the highest contribution rate (47.96%) for wetlands than other land cover types from 2000 to 2010, followed by forest land (39.03%). The contribution rates of forest and agricultural land to wetlands were 60.17% and 39.02% from 2010 to 2020, respectively. Wetlands showed a more significant net gain (total 259 km2) in the Central and South Hunan Province. More specifically, the wetlands area in the North Hunan Province decreased by 45 km2 from 1990 to 2000. It increased in the next two decades (155 km2 and 22 km2, respectively). The South Hunan province kept increasing from 1990 to 2010 (total 149 km2), while decreasing from 2010 to 2020 (total -297 km2). Forest was the principal driving force to promote the continuous increase of wetland area. Besides, agricultural land was mainly related to wetland change in this region, characterized by reclaiming land from the lake early and returning farmland to wetland later. Build-up land occupied a small quantity of wetland over the study period.
+## Keywords :
+Water environmental capacity; Optimal allocation; Environmental Gini coefficient; MIKE11 model; the Luan River Basin
+
+## Highlights :
+- A fairness-based framework was proposed for the optimal allocation of WEC.
+- The optimal allocation of WEC was obtained by minimizing the modified EGC.
+- WEC exhibited an upward trend with the increase of the regulation level.
+- The optimal allocation of WEC was realized at the strong regulation level.
+
+
+
+## Main content :
+The allocation of pollutant discharge is challenging work due to conflicts between environmental fairness and efficiency. Water environmental capacity (WEC) is a pivotal metric for the effective control of total pollutant discharge and water environment management. Therefore, a fairness-based decision-making framework for the optimal allocation of the WEC was proposed. To achieve this aim, the environmental Gini coefficient (EGC) was modified through the probability distribution function based on a multi-criteria system. The Luan River Basin of Chengde city in China was selected as a case study to illustrate the application of this novel framework. Specifically, five water environmental function zones and eight calculation units were divided considering the basin characteristics and administrative divisions. Hydrodynamic and advection-dispersion modules in the MIKE 11 model were employed to simulate the migration and transformation processes of water pollutant discharges, and the river one–dimensional model was integrated to assess the WEC. Then, 14 significant influencing factors of WEC were identified by orthogonal experiments, and three water environmental regulation scenarios were designed. Subsequently, the modified EGC was analyzed by establishing the relationships between the WEC and evaluation indices (i.e., population, gross domestic product and land area). The results allowed for the decision-making of an optimal allocation scheme for WEC with the objective function by minimizing the modified EGC. The status quo served as a reference for comparison. As the regulation level improved, the WEC exhibited an upward trend. The largest WEC appeared at the strong regulation level, with values that were 525.97 and 261.27 kg/d larger than those observed at weak and moderate levels, respectively. Additionally, the minimum EGC value occurred at the strong regulation level (<0.7), thereby obtaining the optimal allocation scheme for the WEC. This study presents new insights into the well-informed specific strategies for the optimal allocation of WEC. The proposed framework can be applied to other regulated rivers for pollutant discharge control and water environment management.
+
+![png](./index_1_0.png)
 
