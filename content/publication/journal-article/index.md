@@ -3,8 +3,8 @@ title: "Roles of the stolon and erect grass species in surface–subsurface flow
 authors:
 #- admin
 - Zhimin Yang
-- Chunhui Li
-- Yaojun Liu
+- Yaojun Liu 
+- Chunhui Li et al
 date: "2022-02-01T00:00:00Z"
 doi: ""
 
@@ -41,7 +41,7 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S002216942201397X/pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 

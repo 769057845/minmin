@@ -16,13 +16,14 @@ superuser: true
 # Role/position/tagline
 role: Postgraduate of Environmental Science
 
+
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Beijing Normal University
     url: https://www.bnu.edu.cn//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I have the research experiences on exploring surface–subsurface flow and soil erosion processes under soil-plant interactions, modeling and source-apportioning the soil and water pollution processes, analyzing the influence mechanism of artificial barriers on river ecosystem using hydrological models, and focusing on climate change solutions.
 
 # Interests to show in About widget
 interests:
@@ -39,6 +40,10 @@ education:
     - course: Bachelor of Geographical Science
       institution: Hunan Normal University
       year: September 2017 – July 2021
+
+skills: 
+  - 1ww
+  - 2ww
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
