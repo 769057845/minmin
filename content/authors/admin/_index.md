@@ -26,9 +26,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Ecological hydrology, Climate change, River biogeochemical, Water management
-  - Terrestrial ecosystem carbon dynamics, Surface material cycle, Land use change, Soil-plant
-  - Water quality, Risk assessment, Source apportionment
+  - Ecological hydrology, Integrated watershed management, Global biogeochemical cycles
+  - Terrestrial ecosystem carbon dynamics, Surface material cycle, Soil-plant interactions
+  - Climate change solutions, Land use change, Risk assessment, Source apportionment
 
 # Education to show in About widget
 education:
@@ -65,12 +65,12 @@ social:
     link: uploads/CV-Zhimin.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: yangzm@mail.bnu.edu.cn
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 
-Zhimin Yang is a postgraduate of hydrology and water resource at Beijing normal university. She has the research experiences on 写自己的研究经历 . She is also experienced in field observations, experiments and hydrological models. She is interested in the water-soil-plant interactions under a changing environment. Yang Zhimin also has good academic performance, ranking first both in the period of bachelor and master. She is familiar with different fields including ecology, hydrology, soil science and climate meteorology to conduct the inter- and multidisciplinary research.
+I am completing my master’s studies and pursuing my studies toward a Ph.D. in 2024 Fall in the United States. I have published 5 papers as the first author in SCI TOP journals such as Journal of Hydrology, Chemosphere, and Ecological Indicators. I have the research experiences on exploring surface–subsurface flow and soil erosion processes under soil-plant interactions, modeling and source-apportioning the soil and water pollution processes, analyzing the influence mechanism of artificial barriers on river ecosystem using hydrological models, and focusing on climate change solutions. 
 {style="text-align: justify;"}

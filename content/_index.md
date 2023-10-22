@@ -15,16 +15,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: software：R, ArcGIS, SPSS, Origin, PS
-          description: 80%
-          icon: r-project
-          icon_pack: fab
-        - name: model：SWAT model,  MIKE model
-          description: 90%
+        - name: Model：SWAT model,  MIKE model
+          description: ''
           icon: chart-line
           icon_pack: fas
-        - name: Hobbies：backpacking, contemporary literature, Running, traveling
-          description: 70%
+        - name: Software：R, ArcGIS, SPSS, Origin, PS
+          description: ''
+          icon: r-project
+          icon_pack: fab
+        - name: Hobbies：Backpacking, Running, Traveling
+          description: ''
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -39,7 +39,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Master
+        - title: Master of Hydrology and Water Resources
           company: GPA：3.80/4.00   Rank：1/96
           company_url: ''
           company_logo: org-gc
@@ -49,10 +49,11 @@ sections:
           description: |2-
               e.g. Compulsory course (Percentile system):
 
-              * Water Quality Model and Simulation: Mark 96
-              * Application and Development of Spatial Analysis Technology in Environment: Mark 96
-              * Science of Hydrology and Water Resource: Mark 94
-        - title: Bachelor
+              * Water Quality Model and Simulation: Mark A+
+              * Application and Development of Spatial Analysis Technology in Environment: Mark A+
+              * Science of Hydrology and Water Resource: Mark A
+              * Comparison of environmental issues between America and China: Mark A+
+        - title: Bachelor of Geographical Science
           company: GPA：4.23/5.00   Rank：1/84
           company_url: ''
           company_logo: org-x
@@ -62,13 +63,55 @@ sections:
           description: |2-
               e.g. Compulsory course (Percentile system)
 
-              * Soil Geography: Mark 95
-              * Economic geography: Mark 94
-              * Geology and Geomorphology: Mark 95
-              * Meteorology and climatology: Mark 95
+              * Soil Geography: Mark A+
+              * Economic geography: Mark A
+              * Geology and Geomorphology: Mark A+
+              * Meteorology and climatology: Mark A+
 
           
     design:
+      columns: '2'
+  - block: collection
+    id: featured
+    content:
+      title: Recent Publications
+      text: ''
+      count: 8  
+      offset: 0
+      order: asc     
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: Experiences
+    content:
+      title: Experiences
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
       columns: '2'
   - block: accomplishments
     content:
@@ -116,33 +159,6 @@ sections:
           title: Provincial Innovation and Entrepreneurship Project for College Students
           url: ''
     design:
-      columns: '2'
-  - block: collection
-    id: Experiences
-    content:
-      title: Experiences
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
       columns: '2'
   - block: portfolio
     id: Conference Presentations
@@ -192,21 +208,6 @@ sections:
  #   design:
  #     columns: '2'
  #     view: card
-  - block: collection
-    id: featured
-    content:
-      title: Recent Publications
-      text: ''
-      count: 8  
-      offset: 0
-      order: asc     
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: tag_cloud
     content:
       title: Popular Topics
