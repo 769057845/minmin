@@ -1,9 +1,10 @@
 ---
 title: Field observations
-subtitle: Sampling of Cascade Reservoirs in the Yellow River. Investigation of the Yellow River Basin. 
+subtitle: ''
 
 # Summary for listings and search engines
-summary: Sampling of Cascade Reservoirs in the Yellow River. Investigation of the Yellow River Basin. 
+summary: Water collection, River sediments collection, Soil collection, Greenhouse gases collection, Sample pretreatment and storageSamples collection in the upper reaches of the Yangtze River Basin, in the Yellow River Basin, at the Yellow River Delta, at the Dongting Lake basin, et. al.
+
 
 # Link this post with a project
 projects: []

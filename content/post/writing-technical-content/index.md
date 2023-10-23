@@ -1,9 +1,9 @@
 ---
-title: Summer camp 
-subtitle: Frontiers of Geography–Carbon Neutrality and Climate Change, Peking University.   Theory and Methods of Land Surface Remote Sensing Inversion, Beijing Normal University.
+title: Model simulations
+subtitle: ''
 
 # Summary for listings and search engines
-summary: Frontiers of Geography–Carbon Neutrality and Climate Change, Peking University.   Theory and Methods of Land Surface Remote Sensing Inversion, Beijing Normal University.
+summary: SWAT model, MIKE model, PMF model, Unmix model, Delft3D model.
 
 # Link this post with a project
 projects: []
@@ -40,37 +40,10 @@ categories:
   - ''
 ---
 
+## Model Operation
+- **SWAT model:** In Professor Ouyang Wei's water quality modeling and simulation class, Yangzhimin learned and applied the SWAT model to analyze non point source pollution in the Luan River Basin.
 
-## Summer School Course
-
-1. **Frontiers of Geography–Carbon Neutrality and Climate Change, Peking University, 2023**
-
-During the summer school camp in 2023, Yang Zhimin has learned courses on dual carbon goals and ecosystem carbon sequestration, new global climate governance situations and the game of major powers in the context of carbon neutrality, climate change and methane, carbon sink measurement and interannual changes in carbon cycle, etc; Meanwhile, Yang Zhimin has communicated and discussed with Pro Piano Shilong, Pro Peng shushi.
-
-![png](./index_1_0.png)
-
-
-![png](./index_2_0.png)
-
-
-## Summer School Course
-
-2. **Theory and Methods of Land Surface Remote Sensing Inversion, Beijing Normal University, 2022**
-
-During the summer school camp in 2022, Yang Zhimin has learned quantitative remote sensing of vegetation, soil hydrology remote sensing and its applications, algorithms and application demonstrations with deep learning based land cover mapping, human-nature system coupled models, and other courses. 
-
-![png](./index_3_0.png)
-
-
-![png](./index_4_0.png)
-
-## Excellent camper
-
-- 👉 [**click here**](https://www.ues.pku.edu.cn/jyjx/yjsjy/zsxx/78b4f97757934aff9f559d29061a9f4d.htm)
-- **Beijing University School of Urban and Environmental Sciences Natural Geography Summer Camp, excellent camper,2020**
-
--During the summer camp in 2022, Yangzhimin has deeply learned nature geology and communicated with many scholars.
-
+- **MIKI model:** With the support of the research group's project, the MIKI model was used to construct a hydrodynamic and water quality model for the Luanhe River Basin in Chengde City, simulating the concentration changes of four pollutants, COD, NH3-N, TN, and TP, in the study area. Calibrate important parameters using measured data and validate them using Nash coefficient, average absolute percentage error, and relative error. Based on the hydrodynamic water quality model of the Luanhe River Basin in Chengde City, the water environment functional zones and calculation units are divided, and the water environment capacity is calculated using the one-dimensional water quality model formula of the river.
 
 
 

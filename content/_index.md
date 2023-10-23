@@ -184,6 +184,8 @@ sections:
           tag: River and Lake Ecological Forum
         - name: Environmental Forum Award
           tag: Environmental Forum Award
+        - name: Summer camp
+          tag: Summer camp
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -228,9 +230,6 @@ sections:
         street: No.19, Xinjiekouwai St, Haidian District
         city: Beijing
         country: China
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
