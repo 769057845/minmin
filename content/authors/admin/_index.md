@@ -77,5 +77,5 @@ highlight_name: true
 ---
 
 
-I am completing my master’s studies and pursuing my studies toward a Ph.D. in 2024 Fall in the United States. I have published 5 papers as the first author in SCI TOP journals such as Journal of Hydrology, Chemosphere, and Ecological Indicators. I have the research experiences on exploring surface–subsurface flow and soil erosion processes under soil-plant interactions, modeling and source-apportioning the soil and water pollution processes, analyzing the influence mechanism of artificial barriers on river ecosystem using hydrological models, and focusing on climate change solutions. 
+I am completing my master’s studies and pursuing my studies toward a Ph.D. in 2024 Fall in the United States. I have published five papers as the first author in SCI TOP journals such as Journal of Hydrology, Chemosphere, and Ecological Indicators. I have the research experiences on exploring surface–subsurface flow and soil erosion processes under soil-plant interactions, modeling and source-apportioning the soil and water pollution processes, analyzing the influence mechanism of artificial barriers on river ecosystem using hydrological models, and focusing on climate change solutions. 
 {style="text-align: justify;"}

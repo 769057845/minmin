@@ -1,9 +1,9 @@
 ---
 title: Laboratory experiment
-subtitle: Instrument measurement, Grass planting on soil plots in the rainfall simulation and Model Operation
+subtitle: ''
 
 # Summary for listings and search engines
-summary: Instrument measurement, Grass planting on soil plots in the rainfall simulation and Model Operation
+summary: Chemical analysis, Lab analysis, Rainfall simulation, Soil plot design and installation, Grass planting and management.
 
 # Link this post with a project
 projects: []
@@ -63,11 +63,6 @@ Under the condition of indoor simulated rainfall, the red soil in the southern h
 
 
 ![png](./index_4_0.png)
-
-## Model Operation
-- **SWAT model:** In Professor Ouyang Wei's water quality modeling and simulation class, Yangzhimin learned and applied the SWAT model to analyze non point source pollution in the Luan River Basin.
-
-- **MIKI model:** With the support of the research group's project, the MIKI model was used to construct a hydrodynamic and water quality model for the Luanhe River Basin in Chengde City, simulating the concentration changes of four pollutants, COD, NH3-N, TN, and TP, in the study area. Calibrate important parameters using measured data and validate them using Nash coefficient, average absolute percentage error, and relative error. Based on the hydrodynamic water quality model of the Luanhe River Basin in Chengde City, the water environment functional zones and calculation units are divided, and the water environment capacity is calculated using the one-dimensional water quality model formula of the river.
 
 
 
