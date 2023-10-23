@@ -229,7 +229,7 @@ sections:
       address:
         street: No.19, Xinjiekouwai St, Haidian District
         city: Beijing
-        country: China
+        postcode: China
       contact_links:
         - icon: twitter
           icon_pack: fab

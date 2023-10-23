@@ -3,6 +3,7 @@ title: "A novel method for determining the optimal allocation of dynamic water e
 authors:
 #- admin
 - Zhimin Yang
+- Xiaoxuan Li
 - Chunhui Li et al
 date: "2023-10-19T00:00:00Z"
 doi: ""
@@ -69,6 +70,7 @@ Water environmental capacity; Optimal allocation; Environmental Gini coefficient
 - WEC exhibited an upward trend with the increase of the regulation level.
 - The optimal allocation of WEC was realized at the strong regulation level.
 
+![png](./index_2_0.png)
 
 
 ## Main content :
