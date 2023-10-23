@@ -19,7 +19,5 @@ slides: ''
 ![png](./index_1_0.png)
 
 
-![png](./index_2_0.png)
-
 
 
