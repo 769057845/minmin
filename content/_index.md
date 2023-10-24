@@ -109,7 +109,7 @@ sections:
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      order: asc
     design:
       # Choose a layout view
       view: compact
@@ -162,7 +162,7 @@ sections:
     design:
       columns: '2'
   - block: portfolio
-    id: Conference Presentations
+    id: conference
     content:
       title: Conference Presentations
       filters:
@@ -193,9 +193,10 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
+    id: gallery
     content:
       title: Gallery
-      subtitle: ''
+      subtitle: I had a clearer vision of my strengths—personal drive, ability to make coherent and realistic decisions, unafraid to expand my comfort zone to embrace and discover new things about myself—that would make me a viable Ph.D. candidate.
       text: |-
         {{< gallery album="demo" >}}
     design:
@@ -222,7 +223,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        After four years of rigorous study in geographical science during my B.S., three years of strict scientific research and lab training in environmental science and hydrology during my M.S., I am pursuing my studies toward a Ph.D. in 2024 Fall in the United States.
       # Contact (add or remove contact options as necessary)
       email: yangzm@mail.bnu.edu.cn
       phone: +86-18813185182
