@@ -22,8 +22,6 @@ slides: ''
 
 During the summer school camp in 2023, Yang Zhimin has learned courses on dual carbon goals and ecosystem carbon sequestration, new global climate governance situations and the game of major powers in the context of carbon neutrality, climate change and methane, carbon sink measurement and interannual changes in carbon cycle, etc; Meanwhile, Yang Zhimin has communicated and discussed with Pro Piano Shilong, Pro Peng shushi.
 
-![png](./index_1_0.png)
-
 
 ![png](./index_2_0.png)
 
