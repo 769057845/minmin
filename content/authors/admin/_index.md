@@ -29,7 +29,7 @@ bio: I make efforts to synthesize field observations, lab experiments, model sim
 interests:
   - Ecological hydrology, Integrated watershed management, Global biogeochemical cycles
   - Terrestrial ecosystem carbon dynamics, Surface material cycle, Soil-plant interactions
-  - Climate change solutions, Land use change, Risk assessment, Source apportionment
+  - Climate change, Land use change, Risk assessment, Source apportionment
 
 # Education to show in About widget
 education:
@@ -77,5 +77,5 @@ highlight_name: true
 ---
 
 
-Zhimin Yang is completing her master’s studies and pursuing further studies toward a Ph.D. in 2024 Fall in the United States. I have published five papers as the first author in SCI TOP journals such as the Journal of Hydrology, Chemosphere, and Ecological Indicators. I have research experiences in exploring surface–subsurface flow and soil erosion processes under soil–plant interactions, modelling and source-apportioning the soil and water pollution processes, analyzing the influence mechanism of artificial barriers on river ecosystems using hydrological models, and focusing on climate change solutions.
+Zhimin Yang is a master's degree candidate and is pursuing further studies toward a Ph.D. in Fall 2024. She has five papers published as the first author in SCI TOP journals such as the Journal of Hydrology, Chemosphere, and Ecological Indicators. Additionally, two other papers as the first author have been submitted to the Journal of Hydrology (tremendous revision) and npj Clean Water (under review), respectively. She ranked first in academic performance both in the B.S. and M.S. period. Her research experience allows her to accumulate interdisciplinary skills, including ecosystem, hydrology, geography, environment science, and soil science. She is devoted to synthesizing field observations, lab experiments, model simulations, machine learning, and other statistical approaches to address global environmental issues, such as climate change solutions and carbon sequestration. Zhimin is a responsible and enthusiastic scholar who is eager to step out of her comfort zone and willing to embrace different and new things.
 {style="text-align: justify;"}
