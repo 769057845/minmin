@@ -41,7 +41,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Master of Hydrology and Water Resources
-          company: GPA：3.80/4.00   Rank：1/96
+          company: GPA：3.80/4.00      Rank：1/96
           company_url: ''
           company_logo: org-gc
           location: Beijing Normal University
