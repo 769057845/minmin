@@ -18,7 +18,7 @@ publishDate: "2023-10-019T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Hydrology(prepare for a tremendously revised version)"
+publication: "*Journal of Hydrology.(Related to her own research project (Open Fund of State Key Laboratory of Remote Sensing Science))"
 publication_short: ""
 
 #abstract: Wetland; Temporal and spatial change; Land use change; Dongting Lake Basin
