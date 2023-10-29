@@ -19,7 +19,7 @@ publishDate: "2023-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ecological Indicators, 154, 110903. (SCI&Q1&TOP)"
+publication: "*Ecological Indicators, 154, 110903. (Related to her advisor’s research project (National Key Research and Development Program of China))"
 publication_short: ""
 
 

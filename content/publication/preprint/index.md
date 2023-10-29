@@ -19,7 +19,8 @@ publishDate: "2023-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Chemosphere, 336, 139119. (SCI&Q1&TOP)"
+publication: "*Chemosphere, 336, 139119.
+(Related to her postgraduate course _Environmental Forensics_)"
 publication_short: "" 
 
 
