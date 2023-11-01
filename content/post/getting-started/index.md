@@ -51,8 +51,11 @@ categories:
 
 In May 2023, Zhimin Yang went to the Upper Reaches of the Yellow River to explore the influence mechanism of cascade reservoirs on organic materials such as dissolved organic carbon (DOC). She collected water, sediment, and greenhouse gas samples in Longyangxia, Laxiwa, Lijiaxia, and Liujiaxia reservoirs. To understand the damming effect and accumulative effect of cascade reservoirs, the reservoir area, head, and tail were all considered. These works are prepared for the master’s graduation thesis.
 
+![png](./index_6_0.png)
+
 Two years ago, Zhimin Yang went to the Upper Reaches of the Yangtze River and focused on five reservoirs (Jinping I, Jinping II, Guandi, Ertan, and Tongzilin hydropower stations). The cascade reservoirs’ location characteristics, operations, and regulations were investigated. Furthermore, the changes in flow regimes, sediment distribution, organic matter transport, aquatic communities and ecosystems caused by artificial barriers were explored. Regarding this research work, a paper entitled “A novel index-based method associated with the aquatic ecosystem for evaluating river longitudinal connectivity: A case study for cascade dams in the Yalong River, China” has been published in _Ecological_ _Indicators_.
 
+![png](./index_5_0.png)
 
 ![png](./index_1_0.png)
 
