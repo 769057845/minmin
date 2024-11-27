@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postgraduate of Environmental Science
+role: Graduate of Environmental Science
 
 
 # Organizations/Affiliations to show in About widget
@@ -36,7 +36,7 @@ education:
   courses:
     - course: Master of Hydrology and Water Resources
       institution: Beijing Normal University
-      year: September 2021 – Present
+      year: September 2021 – July 2024
     - course: Bachelor of Geographical Science
       institution: Hunan Normal University
       year: September 2017 – July 2021
