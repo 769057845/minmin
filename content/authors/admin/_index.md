@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Lucky Yang 杨志敏
+title: Zhimin Yang 杨志敏
 
 # Full name (for SEO)
-first_name: Lucky
+first_name: Zhimin
 last_name: Yang
 
 # Status emoji
