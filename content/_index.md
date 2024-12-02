@@ -46,7 +46,7 @@ sections:
           company_logo: org-gc
           location: Beijing Normal University
           date_start: '2021-09-01'
-          date_end: ''
+          date_end: '2024-07-01'
           description: |2-
               e.g. Compulsory course (Percentile system):
 

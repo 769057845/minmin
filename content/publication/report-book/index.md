@@ -1,15 +1,15 @@
 ---
-title: "A novel method for determining the optimal allocation of dynamic water environmental capacity in one river"
+title: "An integrated framework for water assimilative capacity allocation based on environmental fairness-efficiency tradeoffs with a modified optimization model in a river basin"
 authors:
 #- admin
 - Zhimin Yang
 - Xiaoxuan Li
 - Chunhui Li et al
-date: "2023-10-19T00:00:00Z"
+date: "2024-10-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-019T00:00:00Z"
+publishDate: "2024-10-019T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publishDate: "2023-10-019T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Hydrology.(Related to her own research project (Open Fund of State Key Laboratory of Remote Sensing Science))"
+publication: "*Journal of Hydrology.(Under revision)"
 publication_short: ""
 
 #abstract: Wetland; Temporal and spatial change; Land use change; Dongting Lake Basin
@@ -62,19 +62,19 @@ projects:
 
 
 ## Keywords :
-Water environmental capacity; Optimal allocation; Environmental Gini coefficient; MIKE11 model; the Luan River Basin
+Water assimilative capacity; Optimization; Modified environmental Gini coefficient; Fairness-efficiency tradeoffs; MIKE11 model
 
 ## Highlights :
-- A fairness-based framework was proposed for the optimal allocation of WEC.
-- The optimal allocation of WEC was obtained by minimizing the modified EGC.
-- WEC exhibited an upward trend with the increase of the regulation level.
-- The optimal allocation of WEC was realized at the strong regulation level.
+- A framework for WAC allocation was proposed based on fairness-efficiency.
+- The optimal allocation is in the moderate regulation with minimal objective function.
+- The minimal modified EGC occurred in the high regulatory scenario.
+- Identify key pollutant and prioritize specific river sections for targeted regulation.
 
 ![png](./index_2_0.png)
 
 
 ## Main content :
-The allocation of pollutant discharge is challenging work due to conflicts between environmental fairness and efficiency. Water environmental capacity (WEC) is a pivotal metric for the effective control of total pollutant discharge and water environment management. Therefore, a fairness-based decision-making framework for the optimal allocation of the WEC was proposed. To achieve this aim, the environmental Gini coefficient (EGC) was modified through the probability distribution function based on a multi-criteria system. The Luan River Basin of Chengde city in China was selected as a case study to illustrate the application of this novel framework. Specifically, five water environmental function zones and eight calculation units were divided considering the basin characteristics and administrative divisions. Hydrodynamic and advection-dispersion modules in the MIKE 11 model were employed to simulate the migration and transformation processes of water pollutant discharges, and the river one–dimensional model was integrated to assess the WEC. Then, 14 significant influencing factors of WEC were identified by orthogonal experiments, and three water environmental regulation scenarios were designed. Subsequently, the modified EGC was analyzed by establishing the relationships between the WEC and evaluation indices (i.e., population, gross domestic product and land area). The results allowed for the decision-making of an optimal allocation scheme for WEC with the objective function by minimizing the modified EGC. The status quo served as a reference for comparison. As the regulation level improved, the WEC exhibited an upward trend. The largest WEC appeared at the strong regulation level, with values that were 525.97 and 261.27 kg/d larger than those observed at weak and moderate levels, respectively. Additionally, the minimum EGC value occurred at the strong regulation level (<0.7), thereby obtaining the optimal allocation scheme for the WEC. This study presents new insights into the well-informed specific strategies for the optimal allocation of WEC. The proposed framework can be applied to other regulated rivers for pollutant discharge control and water environment management.
+Water assimilative capacity (WAC) is crucial metric for evaluating the effective control of total pollutant loads. However, the allocation of pollutant discharges remains a complex challenge due to uncertainties and tradeoffs between environmental fairness and efficiency. To address these issues, this study proposed a novel integrated framework for the optimal allocation of WAC based on fairness-efficiency tradeoffs. The framework was applied to the Luan River Basin in Chengde City, China, as a case study to illustrate its application. The study area was divided into five water environmental function zones and eight calculation units. Four water quality indices (i.e. COD, NH3-N, TN, and TP) were selected as pollutant control targets. Hydrodynamic and advection-dispersion modules from the MIKE 11 model were developed and integrated into the WAC model. An orthogonal experiment method was conducted to identify significant factors influencing WAC. Three regulatory levels were set for significant factors based on four regulatory aspects, thereby three regulatory scenarios were designed. To assess the performance of WAC allocation, the Environmental Gini coefficient (EGC) was modified using a probability distribution function to evaluate fairness; and the environmental benefit was used to quantitatively measure allocation efficiency. Therefore, a modified optimization model was developed to determine the optimal allocation of WAC. The objective function aimed to minimize the ratio of the variation in the modified EGC to the variation in environmental benefits. The results showed that the initial state presented the least favorable condition, with the lowest WAC and highest modified EGC. Comparatively, WAC values under the high regulatory scenario were 8.61, 1.53, and 0.43 times greater than those in the initial state, low, and moderate regulatory scenarios, respectively. Furthermore, the average modified EGC under high regulation was reduced by 68.97%, 53.49% and 18.22% compare to the initial state, low, and moderate regulation, respectively. Therefore, the ideal allocation was observed in the high regulation based on environmental fairness. However, when considering fairness-efficiency tradeoffs, the optimal allocation of WAC occurred in the moderate regulation due to a minimal objective function, with the value 68.64% smaller than that of the high regulation. The study provides new insights into targeted WAC allocation strategies to promote fairness and maintain efficiency.
 
 ![png](./index_1_0.png)
 
