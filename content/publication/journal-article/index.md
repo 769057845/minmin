@@ -5,8 +5,8 @@ authors:
 - Zhimin Yang
 - Yaojun Liu 
 - Chunhui Li et al
-date: "2022-02-01T00:00:00Z"
-doi: ""
+date: "2022-12-01T00:00:00Z"
+doi: "10.1016/j.jhydrol.2022.128827"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-12-01T00:00:00Z"
@@ -20,7 +20,8 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Hydrology, 617, 128827. 
 
-(Related to her undergraduate thesis _Runoff and sediment yield process of two typical herbs on red soil slope under simulated rainfall_)"
+#(Related to her undergraduate thesis _Runoff and sediment yield process of two typical herbs on red soil slope under simulated rainfall_)
+"
 #publication_short: ""
 
 #abstract: 1.Surface-subsurface flow and soil loss in response to two grass species were revealed.2.Stolon grass was more effective than erect grass in reducing soil loss.3.Hydraulic and hydrodynamic characteristics were affected by various grass treatments.4.The above- and under-ground parts of grass contributed to controlling soil erosion.

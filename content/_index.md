@@ -48,12 +48,13 @@ sections:
           date_start: '2021-09-01'
           date_end: '2024-07-01'
           description: |2-
-              e.g. Compulsory course (Percentile system):
+              Major courses:
 
-              * Water Quality Model and Simulation: Mark 96
-              * Application and Development of Spatial Analysis Technology in Environment: Mark 96
-              * Science of Hydrology and Water Resource: Mark 94
-              * Comparison of environmental issues between America and China: Mark 95
+              * Water Quality Model and Simulation: A+ (Grade: 96/100)
+              * Application and Development of Spatial Analysis Technology in Environment: A+ (Grade: 96/100)
+              * Science of Hydrology and Water Resources: A (Grade: 94/100)
+              * Environmental Forensics: A (Grade: 94/100)
+              * Comparison of Environmental Issues between China and America: A+ (Grade: 95/100)
         - title: Bachelor of Geographical Science
           company: GPA：4.25/5.00   Rank：1/84
           company_url: ''
@@ -62,12 +63,13 @@ sections:
           date_start: '2017-09-01'
           date_end: '2021-07-01'
           description: |2-
-              e.g. Compulsory course (Percentile system)
+              Major courses:
 
-              * Soil Geography: Mark 95
-              * Economic geography: Mark 94
-              * Geology and Geomorphology: Mark 95
-              * Meteorology and climatology: Mark 95
+              * Meteorology and Climatology: A+ (Grade: 95/100)
+              * Soil Geography: A+ (Grade: 95/100)
+              * Geology and Geomorphology: A+ (Grade: 95/100)
+              * Economic Geography: A (Grade: 94/100)
+              * Professional English: A+ (Grade: 97/100)
 
           
     design:
