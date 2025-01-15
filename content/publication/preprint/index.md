@@ -7,7 +7,7 @@ authors:
 - Shaoda Liu
 - Chunhui Li et al
 date: "2023-07-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.chemosphere.2023.139119"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-07-01T00:00:00Z"
@@ -19,8 +19,7 @@ publishDate: "2023-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Chemosphere, 336, 139119.
-(Related to her postgraduate course _Environmental Forensics_)"
+publication: "*Chemosphere, 336, 139119."
 publication_short: "" 
 
 
