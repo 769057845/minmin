@@ -27,9 +27,9 @@ bio: I make efforts to synthesize field observations, lab experiments, model sim
 
 # Interests to show in About widget
 interests:
-  - Ecological hydrology, Integrated watershed management, Global biogeochemical cycles
-  - Terrestrial ecosystem carbon dynamics, Surface material cycle, Soil-plant interactions
-  - Climate change, Land use change, Risk assessment, Source apportionment
+  - Greenhouse Gases, Biogeochemical Cycles, Climate Change
+  - Hydrological Processes, Watershed Management
+  - Ecosystems, Surface Material Cycles, Soil Science
 
 # Education to show in About widget
 education:
@@ -77,5 +77,6 @@ highlight_name: true
 ---
 
 
-Zhimin Yang is a master's student pursuing a Ph.D. program in Fall 2025. In her research and academic journey, she has five first-author papers published in SCI journals, including the Journal of Hydrology, Chemosphere, and Ecological Indicators. In addition, she has another first-author paper currently under revision in the Journal of Hydrology. Zhimin excelled academically during her undergraduate and master’s studies, ranking first in her department throughout both programs.Her research experiences span multiple disciplines, encompassing ecosystem ecology, hydrology, geography, environmental science, and soil science. Zhimin is devoted to tackling global environmental challenges by integrating diverse methodologies, such as field observations, laboratory experiments, model simulations, machine learning, and advanced statistical techniques. Zhimin strives to step outside her comfort zone and embrace new opportunities and challenges.
+Zhimin Yang is a master's graduate pursuing a Ph.D. program in Fall 2025. Through her research and academic journey, she has published five first-author papers in Journal of Hydrology, Chemosphere, Ecological Indicators, Sustainability, and Water. She ranked first in academic performance during both her bachelor's studies (GPA: 4.25/5.00) and master's studies (GPA: 3.80/4.00). Her research experiences span multiple disciplines, including biogeochemistry, hydrology, climate change, ecosystem science, and soil science. She is committed to addressing global environmental challenges by integrating diverse methodologies, such as field observations, laboratory experiments, spatial analyses, model simulations, and advanced statistical techniques.
 {style="text-align: justify;"}
+
