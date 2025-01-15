@@ -55,7 +55,7 @@ sections:
               * Science of Hydrology and Water Resource: Mark 94
               * Comparison of environmental issues between America and China: Mark 95
         - title: Bachelor of Geographical Science
-          company: GPA：4.23/5.00   Rank：1/84
+          company: GPA：4.25/5.00   Rank：1/84
           company_url: ''
           company_logo: org-x
           location: Hunan Normal University
