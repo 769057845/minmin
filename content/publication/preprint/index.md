@@ -19,7 +19,7 @@ publishDate: "2023-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Chemosphere, 336, 139119."
+publication: "*Chemosphere, 336, 139119"
 publication_short: "" 
 
 
@@ -36,6 +36,7 @@ links:
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0045653523013863/pdf
 #url_dataset: '#'
 #url_project: ''
+url_pdf: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
