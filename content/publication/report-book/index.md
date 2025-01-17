@@ -18,7 +18,7 @@ publishDate: "2024-10-019T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Hydrology.(Under revision)"
+publication: "*Environmental Modelling & Software.(Submitted, First author)"
 publication_short: ""
 
 #abstract: Wetland; Temporal and spatial change; Land use change; Dongting Lake Basin
@@ -35,7 +35,6 @@ featured: false
 #- name: source
 #  url: https://doi.org/10.3390/su14063620
 #url_pdf: https://mdpi-res.com/d_attachment/sustainability/sustainability-14-03620/article_deploy/sustainability-14-03620.pdf
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -67,8 +66,8 @@ Water assimilative capacity; Optimization; Modified environmental Gini coefficie
 ## Highlights :
 - A framework for WAC allocation was proposed based on fairness-efficiency.
 - The optimal allocation is in the moderate regulation with minimal objective function.
-- The minimal modified EGC occurred in the high regulatory scenario.
-- Identify key pollutant and prioritize specific river sections for targeted regulation.
+- High regulation is ideal for fairness-based allocation.
+- Targeted regulation prioritizes key pollutants and specific river sections.
 
 ![png](./index_2_0.png)
 
