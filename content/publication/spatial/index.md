@@ -1,12 +1,12 @@
 ---
-title: "Spatial and temporal changes in wetland in Dongting Lake Basin of China under long time series from 1990 to 2020."
+title: "Spatial and temporal changes in wetland in Dongting Lake Basin of China under long time series from 1990 to 2020"
 authors:
 #- admin
 - Zhimin Yang
 - Longfei Han
 - Qingpin Liu
 - Chunhui Li et al
-date: "2022-02-16T00:00:00Z"
+date: "2024-02-16T00:00:00Z"
 doi: "10.3390/su14063620"
 
 # Schedule page publish date (NOT publication's date).
