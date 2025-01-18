@@ -1,9 +1,9 @@
 ---
-title: Model simulations
+title: Numerical Modeling
 subtitle: ''
 
 # Summary for listings and search engines
-summary: SWAT model, MIKE model, PMF model, Unmix model, Delft3D model.
+summary: Delft 3D, MIKE Model, Bibliometric Model, SWAT model, Environmental forensic models.
 
 # Link this post with a project
 projects: []
@@ -41,30 +41,32 @@ categories:
 ---
 
 ## Model Operation
-1. **SWAT model:** 
+1. **Delft 3D:** 
 
-From the water quality modelling and simulation course taught by [**Professor Ouyang Wei**](https://www.researchgate.net/profile/Wei-Ouyang-6), Zhimin Yang learned how to use the SWAT model and applied it to analyze non-point source pollution in the Luan River Basin. Finally, she got the highest score in this course (Marks: 96/100).
-![png](./index_1_0.png)
+To analyze the influence mechanism of cascade dams on aquatic ecosystems, I developed a novel method using biological indices to evaluate river longitudinal connectivity. Recognizing the severe threats posed by numerous large dams to aquatic ecosystems in Southwest China, I selected the largest tributary in the upper reaches of the Yangtze River as a case study.
+
+Using the Delft3D model, I simulated the flow regime characteristics of the river. The results revealed significant differences in longitudinal connectivity among the studied reservoirs. These variations were primarily attributed to factors such as the reservoirs’ locations, spatial distributions, distances, operational strategies, regulatory frameworks, and the cumulative impacts of cascade dams.
+
+My efforts are shown in a first-author publication in Ecological Indicators, which reflects my contributions to advancing the understanding of river ecosystem connectivity.
 
 2. **MIKI model:** 
 
-With the support of the Open Fund of State Key Laboratory of Remote Sensing Science hosted by Zhimin Yang, the MIKE model was used to construct a hydrodynamic and water quality model for the Luanhe River Basin in Chengde City to simulate the migration and degradation processes of water pollutants. The relevant research work was submitted to the _Journal of Hydrology_. According to the comments from three independent reviewers, the editor returned the comment of rejection but recommended the author resubmit a revised version through carefully addressing all those comments.
-![png](./index_2_0.png)
+I developed an integrated framework for water assimilative capacity allocation based on environmental fairness-efficiency trade-offs, utilizing a modified optimization model within a river basin. Using the MIKE II model, I conducted simulations of pollutant generation, diffusion, and transfer dynamics through the hydrodynamic and advection-dispersion modules, considering varying hydrodynamic conditions. The process-based outputs from MIKE II were then incorporated into a water assimilative capacity model.
 
-![png](./index_3_0.png)
+I further modified the Environmental Gini Coefficient to assess fair-based allocation, determining the optimal distribution of water assimilative capacity by minimizing the objective function with fairness-efficiency trade-offs.
 
-3. **Positive matrix factorization (PMF) model and Unmix:** 
+This study has been submitted to Environmental Modelling & Software as a first-author publication. This experience has enhanced my skills in simulating pollutant migration and transformation processes and solving optimization and allocation problems.
 
-Zhimin Yang combined PMF and Unmix models to apportion sources of HMs. PMF and Unmix were recommended by the U.S. Environmental Protection Agency (U.S. EPA) for source apportionment research. Relatively, Unmix has been scarcely used for source apportionment of HMs in river sediments, and the issue whether they can be used together and what differences are their results remain to be explored. Herein, the two forensic models were jointly applied to quantitatively apportion the potential sources of HMs in the river sediment, and their apportionment results were integratively incorporated into a modified ecological risk index for assessing the source-specific ecological risks of sediment HMs. Similarly, the apportionment results were also used to explore the effects of source-oriented geochemical enrichment of HMs on antibiotic resistome in the environment, and high-throughput sequencing-based metagenomic analysis was employed to characterize the prevalence of antimicrobial resistance.
 
-Regarding this research work, a paper entitled “Source-oriented ecological and resistome risks associated with geochemical enrichment of heavy metals in river sediments” has been published in the _Chemosphere_.
-![png](./index_4_0.png)
+3. **Bibliometric Model:** 
 
-4. **Delft3D model:** 
+I conducted a bibliometric analysis synthesizing three decades of research on global water resources under climate change and land use change, using CiteSpace and R tools. I provided a visual overview of research foci, hotspots, trends, and challenges, based on high-frequency keywords, burst detection, and co-network analysis. The results indicated that the frontier research areas primarily involve the coupled atmosphere-hydrology-terrestrial system, approached through interdisciplinary and multi-scale methods. This research has been submitted to Earth's Future.
 
-Zhimin Yang analyzed the influence mechanism of cascade dams on water ecosystems by simulating flow field with Delft3D model in the Yalong River. Considering that the hydrodynamic condition in Yalong River involved many complex ecological and environmental factors, field investigations alone would be insufficient to effectively and accurately analyze the changes of flow field in Yalong River. The well-recognized model can feasibility and realizability simulate the hydrodynamic characteristics based on available data. As the most basic hydrological elements, the variation characteristics of water depth (_h_) and flow velocity (_v_) have fundamental and direct influences on fish species and habitats. Therefore, the Delft3D-Flow module was conducted to simulate the _h_ and _v_ in the study, and all the required input data were imported into this module. The Delft3D-GRID module was used to generate the simulation grid. The alternating direction implicit calculation in the finite difference method was used to solve the equations discretely, including continuity equations and momentum equations as well as transport equations.
+4. **SWAT model:** 
 
-Regarding this research work, a paper entitled “A novel index-based method associated with aquatic ecosystem for evaluating river longitudinal connectivity: A case study for cascade dams in the Yalong River, China” has been published in the _Ecological Indicators_.
-![png](./index_5_0.png)
+In the professional course Water Quality Model and Simulation, she learned to use the SWAT model and applied it to analyze non-point source pollution in watersheds. Through persistent effort, I achieved the highest score in the course (Grade: 96/100).
 
+5. **Environmental forensic models:** 
+
+Source-specific risk identification of heavy metals in the environment is crucial for developing targeted risk mitigation strategies. Therefore, she proposed an integrated, multidisciplinary technological framework for characterizing source-oriented ecological and resistome risks of heavy metals using two environmental forensic models.
 
