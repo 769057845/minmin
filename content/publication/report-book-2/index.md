@@ -2,9 +2,9 @@
 title: "Global water resources management under climate and land use changes: emerging trends and future perspectives"
 authors:
 #- admin
-- Li C
+- Chunhui Li
 - Zhimin Yang
-- Chunhui Li et al
+- Xiong Zhou et al
 date: "2024-10-20T00:00:00Z"
 doi: ""
 

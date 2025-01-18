@@ -1,5 +1,5 @@
 ---
-title: Field observations
+title: Field Investigations 
 subtitle: ''
 
 # Summary for listings and search engines
@@ -47,33 +47,29 @@ categories:
 
 ## Overview
 
-1. **Sample collection and processing in the Yellow River Basin and Yangtze River Basin**
+1. **Greenhouse gases sampling in the Yellow River**
 
-In May 2023, Zhimin Yang went to the Upper Reaches of the Yellow River to explore the influence mechanism of cascade reservoirs on organic materials such as dissolved organic carbon (DOC). She collected water, sediment, and greenhouse gas samples in Longyangxia, Laxiwa, Lijiaxia, and Liujiaxia reservoirs. To understand the damming effect and accumulative effect of cascade reservoirs, the reservoir area, head, and tail were all considered. These works are prepared for the master’s graduation thesis.
-
+Zhimin conducted field investigations in the upper reaches of the Yellow River during the spring thaw period (May 2023) and the fall icing period (November 2023) as part of her master's dissertation. Her research focused on the spatial and seasonal characteristics, as well as the mechanisms, of carbon emissions in cascade reservoirs (i.e., Longyangxia, Laxiwa, Lijiaxia, and Liujiaxia reservoirs) and natural river systems.
 ![png](./index_6_0.png)
 
-Two years ago, Zhimin Yang went to the Upper Reaches of the Yangtze River and focused on five reservoirs (Jinping I, Jinping II, Guandi, Ertan, and Tongzilin hydropower stations). The cascade reservoirs’ location characteristics, operations, and regulations were investigated. Furthermore, the changes in flow regimes, sediment distribution, organic matter transport, aquatic communities and ecosystems caused by artificial barriers were explored. Regarding this research work, a paper entitled “A novel index-based method associated with the aquatic ecosystem for evaluating river longitudinal connectivity: A case study for cascade dams in the Yalong River, China” has been published in _Ecological_ _Indicators_.
-
+To achieve this, she collected stratified water samples from various locations, including the dam front, reservoir area, dam tail, and the natural river upstream and downstream. Using the flux chamber method, she collected greenhouse gases at the water-atmosphere interface and determined their diffusion fluxes through gas chromatographic analysis.
 ![png](./index_5_0.png)
 
+To further explore the mechanisms underlying the carbon emission characteristics, Zhimin employed advanced spectroscopic techniques, such as UV-visible spectroscopy, excitation-emission matrices (EEMs), and parallel factor analysis (PARAFAC). These methods allowed her to analyze the spatial distribution, composition, and sources of dissolved organic matter.
 ![png](./index_1_0.png)
 
-
+These research experiences enhanced her understanding of the impacts of watershed reservoir retention on the transport of riverine biogenic elements and greenhouse gas emissions.
 ![png](./index_2_0.png)
 
 
 ## Overview
 
-2. **Investigation and survey in the Yellow River Basin**
+2. **Investigation of the Yellow River Basin**
 
-Due to the construction of many water conservancy and hydropower projects, aquatic community diversity decreased, and biological habitat disappeared in the Yellow River basin. Constructing the water ecological compensation mechanism in the Yellow River basin is urgent. There are many international eco-compensation practices, such as _Wetlands Mitigation Bank Eco-Compensation_ in the U.S., _Catskill Watershed Payment for Ecosystem Service Project_ in the U.S., _Tennessee Valley Eco-Compensation_, etc.
-
-In July 2022, Zhimin Yang went to the Yellow River Delta to explore the eco-compensation mechanism of the Yellow River, financially supported by the Asian Development Bank (TA-6605 PRC:54026-005). The members of the team included the dean of Beijing Normal University Pro. Hongguang Cheng (chg@bnu.edu.cn), the deputy director of Water Safety Research Institute Pro. Changsen Zhao (zhaochangsen@bnu.edu.cn), Pro. Chunhui Li (chunhuili@bnu.edu.cn) and so on.
-
+In July 2022, Zhimin participated in a community service project in the Yellow River Delta as part of an Asian Development Bank initiative (TA-6605 PRC: 54026-005). She conducted social research on local residents, industries, government offices, and public service organizations to investigate the impacts of eco-compensation practices and policies on ecosystems and climate change.
 
 ![png](./index_3_0.png)
-
+Through these activities, Zhimin honed her collaboration and communication skills, enhancing her ability to work effectively with diverse stakeholders.
 
 ![png](./index_4_0.png)
 

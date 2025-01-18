@@ -116,53 +116,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Projects'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: '2023-12-25'
-          date_start: '2022-05-25'
-          description: (12800-310430011), Host
-          organization: Remote-Sensing
-          organization_url: 'http://www.slrss.cn/'
-          title: The Open Fund of State Key Laboratory of Remote Sensing Science Project 
-          url: ''
-        - certificate_url: ''
-          date_end: '2020-11-01'
-          date_start: '2020-01-01'
-          description: The Spatiotemporal Change Characteristics and Driving Mechanisms of Wetlands in the Dongting Lake Basin
-          organization: Dongting-Lake
-          organization_url: 'https://zh.wikipedia.org/wiki/%E6%B4%9E%E5%BA%AD%E6%B9%96'
-          title: Provincial Innovation and Entrepreneurship Project for College Students
-          url: ''
-        - certificate_url: ''
-          date_end: '2019-09-21'
-          date_start: '2019-06-01'
-          description: Integrated Media Communication and Image Construction of the Ancient Tea Horse Road in Anhua, Hunan under the “Belt and Road” Strategy
-          organization: Ancient-Tea-Horse-Road
-          organization_url: 'https://zh.wikipedia.org/wiki/%E8%8C%B6%E9%A9%AC%E5%8F%A4%E9%81%93'
-          title: Provincial Innovation and Entrepreneurship Project for College Students
-          url: ''
-        - certificate_url: ''
-          date_end: '2018-12-21'
-          date_start: '2018-06-01'
-          description: Cultural and Creative Industry Location Model and Hunan Demonstration
-          organization: Cultural-and-Creative
-          organization_url: 'https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E5%89%B5%E6%84%8F%E7%94%A2%E6%A5%AD'
-          title: Provincial Innovation and Entrepreneurship Project for College Students
-          url: ''
-    design:
-      columns: '2'
+
   - block: portfolio
     id: conference
     content:
