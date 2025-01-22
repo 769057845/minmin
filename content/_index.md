@@ -134,17 +134,17 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: World Geography Conference 
-          tag: World Geography Conference 
-        - name: River and Lake Ecological Forum
-          tag: River and Lake Ecological Forum
-        - name: Environmental Forum Award
-          tag: Environmental Forum Award
-        - name: Summer camp
-          tag: Summer camp
         - name: Baosteel
           tag: Baosteel
-          
+        - name: Environmental Forum Award
+          tag: Environmental Forum Award
+        - name: World Geography Conference 
+          tag: World Geography Conference 
+        - name: Summer camp
+          tag: Summer camp
+        - name: River and Lake Ecological Forum
+          tag: River and Lake Ecological Forum
+         
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
