@@ -142,6 +142,9 @@ sections:
           tag: Environmental Forum Award
         - name: Summer camp
           tag: Summer camp
+        - name: Baosteel
+          tag: Baosteel
+          
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -179,7 +182,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        After four years of rigorous study in geographical science during my B.S., three years of strict scientific research and lab training in environmental science and hydrology during my M.S., I am pursuing my studies toward a Ph.D. in 2024 Fall in the United States.
+        After four years of rigorous study in geographical science during my B.S., three years of strict scientific research and lab training in environmental science and hydrology during my M.S., I am pursuing my studies toward a Ph.D. in 2025 Fall in the United States.
       # Contact (add or remove contact options as necessary)
       email: yangzm@mail.bnu.edu.cn
       phone: +86-18813185182
