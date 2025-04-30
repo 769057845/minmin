@@ -27,17 +27,17 @@ bio: I make efforts to synthesize field observations, lab experiments, model sim
 
 # Interests to show in About widget
 interests:
-  - Greenhouse Gases, Biogeochemical Cycles, Climate Change
-  - Hydrological Processes, Watershed Management
-  - Ecosystems, Surface Material Cycles, Soil Science
+  - Hydrologic Cycle, Carbon Cycle, Ecosystem Ecology
+  - Watershed Management, Soil Science, Climate Change
+  - Fluvial Geomorphology, Nutrient Cycling, Machine Learning
 
 # Education to show in About widget
-education:
+Professional Competence:
   courses:
-    - course: Master of Hydrology and Water Resources
+    - course: ArcGIS, R, MATLAB
       institution: Beijing Normal University
       year: September 2021 – July 2024
-    - course: Bachelor of Geographical Science
+    - course: Hydrological Modeling, Remote Sensing
       institution: Hunan Normal University
       year: September 2017 – July 2021
 
