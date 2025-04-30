@@ -7,7 +7,7 @@ authors:
 - Xiaoxuan Li
 - Chunhui Li et al
 date: "2024-01-19T00:00:00Z"
-doi: "10.1016/j.chemosphere.2023.139119"
+doi: "10.1016/j.envsoft.2025.106503"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-019T00:00:00Z"

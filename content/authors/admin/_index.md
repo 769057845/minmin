@@ -32,7 +32,7 @@ interests:
   - Fluvial Geomorphology, Nutrient Cycling, Machine Learning
 
 # Education to show in About widget
-Professional Competence:
+education:
   courses:
     - course: ArcGIS, R, MATLAB
       institution: Beijing Normal University
