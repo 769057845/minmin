@@ -1,15 +1,16 @@
 ---
-title: "An integrated framework for water assimilative capacity allocation based on environmental fairness-efficiency tradeoffs with a modified optimization model in a river basin"
+title: "An integrated framework for water assimilative capacity allocation based on environmental fairness-efficiency tradeoffs with a modified optimization model in a river basin. Environmental Modelling & Software."
 authors:
 #- admin
 - Zhimin Yang
+- Jiangying Wang
 - Xiaoxuan Li
 - Chunhui Li et al
-date: "2024-10-19T00:00:00Z"
-doi: ""
+date: "2024-01-19T00:00:00Z"
+doi: "10.1016/j.chemosphere.2023.139119"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-019T00:00:00Z"
+publishDate: "2024-01-019T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,10 +31,10 @@ tags:
 - Source Themes
 featured: false
 
-#等发表后放开
-#links:
-#- name: source
-#  url: https://doi.org/10.3390/su14063620
+
+links:
+- name: source
+  url: https://doi.org/10.1016/j.envsoft.2025.106503
 #url_pdf: https://mdpi-res.com/d_attachment/sustainability/sustainability-14-03620/article_deploy/sustainability-14-03620.pdf
 
 # Featured image

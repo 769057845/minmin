@@ -55,7 +55,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.facebook.com/profile.php?id=61573795989438
     label: Follow me on Twitter
     display:
       header: true

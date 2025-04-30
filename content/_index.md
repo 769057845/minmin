@@ -194,7 +194,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://www.facebook.com/profile.php?id=61573795989438'
         - icon: skype
           icon_pack: fab
           name: Skype Me
