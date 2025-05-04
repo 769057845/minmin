@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate of Environmental Science
+role: Master of Environmental Science
 
 
 # Organizations/Affiliations to show in About widget
@@ -35,11 +35,11 @@ interests:
 education:
   courses:
     - course: ArcGIS, R, MATLAB
-      institution: Beijing Normal University
-      year: September 2021 – July 2024
+#      institution: Beijing Normal University
+#      year: September 2021 – July 2024
     - course: Hydrological Modeling, Remote Sensing
-      institution: Hunan Normal University
-      year: September 2017 – July 2021
+#      institution: Hunan Normal University
+#      year: September 2017 – July 2021
 
 skills: 
   - 1ww

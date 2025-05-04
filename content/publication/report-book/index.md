@@ -1,5 +1,5 @@
 ---
-title: "An integrated framework for water assimilative capacity allocation based on environmental fairness-efficiency tradeoffs with a modified optimization model in a river basin. Environmental Modelling & Software."
+title: "An integrated framework for water assimilative capacity allocation based on environmental fairness-efficiency tradeoffs with a modified optimization model in a river basin. Environmental Modelling & Software"
 authors:
 #- admin
 - Zhimin Yang
@@ -19,7 +19,7 @@ publishDate: "2024-01-019T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Environmental Modelling & Software.(Submitted, First author)"
+publication: "*Environmental Modelling & Software, 191(9), 106503"
 publication_short: ""
 
 #abstract: Wetland; Temporal and spatial change; Land use change; Dongting Lake Basin
@@ -35,7 +35,10 @@ featured: false
 links:
 - name: source
   url: https://doi.org/10.1016/j.envsoft.2025.106503
-#url_pdf: https://mdpi-res.com/d_attachment/sustainability/sustainability-14-03620/article_deploy/sustainability-14-03620.pdf
+#url_pdf: https://www.sciencedirect.com/science/article/pii/S1470160X23010452/pdf
+#url_dataset: '#'
+#url_project: ''
+url_pdf: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
