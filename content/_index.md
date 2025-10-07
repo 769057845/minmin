@@ -134,6 +134,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Profile
+          tag: Profile
         - name: Baosteel
           tag: Baosteel
         - name: Environmental Forum Award
@@ -143,9 +145,7 @@ sections:
         - name: Summer camp
           tag: Summer camp
         - name: River and Lake Ecological Forum
-          tag: River and Lake Ecological Forum
-        - name: Profile
-          tag: Profile
+          tag: River and Lake Ecological Forum     
          
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
