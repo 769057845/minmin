@@ -16,5 +16,7 @@ date: '2025-07-27T00:00:00Z'
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
-links:https://mp.weixin.qq.com/s/qf_0kL9XkdEL8Hl1hleZzA
+links:
+  - name: Campus Featured Profile
+    https://mp.weixin.qq.com/s/qf_0kL9XkdEL8Hl1hleZzA
 
