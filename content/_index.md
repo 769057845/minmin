@@ -187,7 +187,7 @@ sections:
         After four years of rigorous study in geographical science during my B.S., three years of strict scientific research and lab training in environmental science and hydrology during my M.S., I am pursuing my studies toward a PhD program to contribute to addressing global environmental challenges. It is this love of science and concern for environmental issues that has allowed me to continue to move forward on her academic path. 
       # Contact (add or remove contact options as necessary)
       email: yangzm@mail.bnu.edu.cn
-      phone: +86-18813185182
+      phone: +86-16626250368
       address:
         street: No.19, Xinjiekouwai St, Haidian District
         city: Beijing
