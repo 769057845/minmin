@@ -184,7 +184,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        After four years of rigorous study in geographical science during my B.S., three years of strict scientific research and lab training in environmental science and hydrology during my M.S., I am pursuing my studies toward a Ph.D. in 2025 Fall in the United States.
+        After four years of rigorous study in geographical science during my B.S., three years of strict scientific research and lab training in environmental science and hydrology during my M.S., I am pursuing my studies toward a PhD program to contribute to addressing global environmental challenges. It is this love of science and concern for environmental issues that has allowed me to continue to move forward on her academic path. 
       # Contact (add or remove contact options as necessary)
       email: yangzm@mail.bnu.edu.cn
       phone: +86-18813185182
